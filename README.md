@@ -1,6 +1,8 @@
 # SGBD-Gospodarul-Config-App
 lab2 - the same database, the program can be used for other tables defined in config app file
+
 Problema 2. 1 săptămână
+
 Transformaţi primul laborator astfel încât să permiteţi crearea unei ferestre (forme) master-detail generice.
 Titlul şi structura ferestrei (formei), controalele şi procedurile stocate / interogările utilizate pentru a accesa şi manipula detele vor fi stabilite într-un fişier de configurare.
 Fereastra (forma) va fi suficient de generică astfel încât modificările ce vor trebui făcute pentru gestionarea altor date (ce în continuare trebuie să se afle într-o relaţie 1-n) să se realizeze exclusiv la nivelul fişierului de configurare şi nu în codul sursă.
